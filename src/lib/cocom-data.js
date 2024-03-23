@@ -4,7 +4,7 @@
 import lakshitaImg from '../assets/cocom-images/lakshitaa-lakshitaa.jpg'
 import divyImg from '../assets/cocom-images/divy_arun_mav-divyarunmav.png'
 import vedantImg from '../assets/cocom-images/vedant_naik-vedantnaik.jpg'
-import arnavImg from '../assets/cocom-images/arnav_deo-arnavdeo.png'
+import arnavImg from '../assets/cocom-images/arnav-deo.jpg'
 import rajvardhanImg from '../assets/cocom-images/rajvardhanImg.jpg'
 // pubs image
 import rasikaImg from '../assets/cocom-images/rasika-rasikaadiseshan.jpeg'

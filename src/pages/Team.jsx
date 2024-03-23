@@ -16,7 +16,7 @@ const Team = () => {
 
     return (
         <div className="p-0 m-0">
-            <div className="p-8 flex flex-col items-center sm:flex-row sm:justify-center">
+            <div className="p-8 mt-16 flex flex-col items-center sm:flex-row sm:justify-center">
                 <TeamButton onClickHandler={coreButtonHandler}>Core</TeamButton>
                 <TeamButton onClickHandler={cocomButtonHandler}> Co-Committee </TeamButton>
             </div>
